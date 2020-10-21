@@ -2,4 +2,4 @@
 
 This review adds some content to README
 
-In another review, I added mre content
+In another review, I added more content
