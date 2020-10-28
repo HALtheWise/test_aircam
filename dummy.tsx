@@ -9,7 +9,9 @@ type AppViewProps = {};
 interface AppViewState {
     cropMap: CropMap;
 }
+sdfasdfads
 
+lets make some changes
 class AppView extends React.Component<AppViewProps, AppViewState> {
     constructor(props: AppViewProps) {
         super(props);
