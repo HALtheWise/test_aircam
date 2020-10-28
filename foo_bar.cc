@@ -210,7 +210,7 @@ namespace octomap {
   {
 
 
-// hello. let's make some changes
+// hello. let's make some changes. Hmm. Not so fast
 #ifdef _OPENMP
     omp_set_num_threads(this->keyrays.size());
     #pragma omp parallel for schedule(guided)
