@@ -1,3 +1,5 @@
+// I really wish there was a better way to make random patches
+
 /*
  * OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees
  * http://octomap.github.com/
